@@ -1,4 +1,4 @@
-cigotour
+CigotTour
 ========
 
 Nothing happens
